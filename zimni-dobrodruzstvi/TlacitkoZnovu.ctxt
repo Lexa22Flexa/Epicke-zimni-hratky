@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TlacitkoZnovu
+comment0.text=\r\n\ Klikn\u011Bte,\ aby\ jste\ si\ znovu\ zahr\u00E1li\ level.\r\n\ \r\n\ @author\ Helmichov\u00E1\ Alexa\r\n\ @version\ 22.5.\ 2024\r\n
+comment1.params=
+comment1.target=void\ zmeneniSveta()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

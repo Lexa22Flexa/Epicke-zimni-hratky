@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Koule
+comment0.text=\r\n\ Ovl\u00E1d\u00E1n\u00ED\ koule\r\n\ \r\n\ @author\ Helmichov\u00E1\ Alexa,\ \u0160ustkov\u00E1\ Veronika,\ M\u00ED\u0161kov\u00E1\ Krist\u00FDna\r\n\ @version\ 31.5.\ 2024\r\n
+comment1.params=
+comment1.target=void\ strilej()
+comment2.params=
+comment2.target=void\ kontrolujPortaly()
+comment3.params=
+comment3.target=void\ kontrolujOkraje()
+comment4.params=
+comment4.target=void\ odrazZed()
+comment5.params=
+comment5.target=void\ odrazObjekty()
+comment6.params=
+comment6.target=void\ act()
+numComments=7

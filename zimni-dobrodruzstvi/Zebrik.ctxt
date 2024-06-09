@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Zebrik
+comment0.text=\r\n\ Jestli\u017Ee\ kliknete\ na\ trpasl\u00EDka,\ kter\u00FD\ se\ ho\ dot\u00FDk\u00E1,\ vyleze\ po\ n\u011Bm.\r\n\ \r\n\ @author\ Helmichov\u00E1\ Alexa\r\n\ @version\ 22.5.\ 2024\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

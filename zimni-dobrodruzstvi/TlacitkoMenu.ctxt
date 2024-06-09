@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TlacitkoMenu
+comment0.text=\r\n\ Klikn\u011Bte\ na\ tla\u010D\u00EDtko,\ aby\ v\u00E1s\ vzalo\ do\ hlavn\u00EDho\ menu.\r\n\ \r\n\ @author\ Helmichov\u00E1\ Alexa\r\n\ @version\ 22.5.\ 2024\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

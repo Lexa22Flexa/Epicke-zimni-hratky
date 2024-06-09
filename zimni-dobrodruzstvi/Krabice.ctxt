@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Krabice
+comment0.text=\r\n\ Krabice\ pro\ blokaci\ v\ cest\u011B\ koule.\r\n\ \r\n\ @author\ Helmichov\u00E1\ Alexa\r\n\ @version\ 22.5.\ 2024\r\n
+comment1.params=
+comment1.target=void\ rozbiti()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

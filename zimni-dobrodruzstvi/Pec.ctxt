@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Pec
+comment0.text=\r\n\ Klikn\u011Bte\ na\ pec,\ aby\ rozmrazila\ trpasl\u00EDky,\ kter\u00FDch\ se\ dot\u00FDk\u00E1.\r\n\ \r\n\ @author\ Helmichov\u00E1\ Alexa\r\n\ @version\ 22.5.\ 2024\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

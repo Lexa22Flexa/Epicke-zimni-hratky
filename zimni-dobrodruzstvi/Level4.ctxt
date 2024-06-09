@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Level4
+comment0.text=\r\n\ Pomoc\u00ED\ "w"\ a\ "s"\ pohybujete\ s\ voz\u00EDkem,\ mus\u00EDte\ zni\u010Dit\ v\u0161echny\ trpasl\u00EDky\ v\ levelu\ pomoc\u00ED\ kuli\u010Dky\ -\ pozor\ a\u0165\ v\u00E1m\ nevylet\u00ED\ za\ voz\u00EDk\!\r\n\ \r\n\ @author\ Helmichov\u00E1\ Alexa\r\n\ @version\ 31.5.\ 2024\r\n
+comment1.params=
+comment1.target=Level4()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

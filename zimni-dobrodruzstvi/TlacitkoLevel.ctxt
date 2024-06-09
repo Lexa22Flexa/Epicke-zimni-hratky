@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TlacitkoLevel
+comment0.text=\r\n\ Klikn\u011Bte\ na\ tla\u010D\u00EDtko\ levelu,\ kter\u00FD\ si\ chcete\ zahr\u00E1t.\r\n\ \r\n\ @author\ Helmichov\u00E1\ Alexa\r\n\ @version\ 22.5.\ 2024\r\n
+comment1.params=level
+comment1.target=TlacitkoLevel(int)
+comment2.params=
+comment2.target=void\ urceniLevelu()
+comment3.params=
+comment3.target=void\ act()
+numComments=4

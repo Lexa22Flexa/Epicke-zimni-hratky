@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TrpaslikDruhy
+comment0.text=\r\n\ rozmra\u017Eov\u00E1n\u00ED\ trpasliku\ \r\n\ \r\n\ @author\ \u0160ustkov\u00E1\ Veronika\r\n\ @version\ 31.5.\ 2024\r\n
+comment1.params=
+comment1.target=void\ pohyb()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

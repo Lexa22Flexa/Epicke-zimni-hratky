@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Pas
+comment0.text=\r\n\ Nato\u010Den\u00ED\ p\u00E1s\u016F.\r\n\ \r\n\ @author\ Helmichov\u00E1\ Alexa\r\n\ @version\ 22.5.\ 2024\r\n
+comment1.params=
+comment1.target=Pas()
+comment2.params=lokace
+comment2.target=Pas(java.lang.String)
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Zloun
+comment0.text=\r\n\ Pohybuje\ se\ tam\ a\ zp\u00E1tky\ v\ rovn\u00E9\ \u010D\u00E1\u0159e,\ br\u00E1n\u00ED\ st\u0159ele\ v\ pr\u016Fletu\r\n\ \r\n\ @author\ Krist\u00FDna\ M\u00ED\u0161kov\u00E1\r\n\ @version\ 22.\ 5.\ 2024\r\n
+comment1.params=
+comment1.target=Zloun()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ kracej()
+numComments=4

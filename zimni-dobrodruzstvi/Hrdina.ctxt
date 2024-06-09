@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Hrdina
+comment0.text=\r\n\ H\u00E1z\u00ED\ st\u0159ely\ mezern\u00EDkem,\ ot\u00E1\u010D\u00ED\ se\ za\ my\u0161\u00ED\r\n\ \r\n\ @author\ Krist\u00FDna\ M\u00ED\u0161kov\u00E1\r\n\ @version\ 22.\ 5.\ 2024\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ otocSeZaMysi()
+comment3.params=
+comment3.target=void\ strileni()
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Delo
+comment0.text=\r\n\ rozmra\u017Eov\u00E1n\u00ED\ trpasl\u00EDk\u016F\r\n\ \r\n\ @author\ \u0160ustkov\u00E1\ Veronika\r\n\ @version\ 22.5.\ 2024\r\n
+comment1.params=
+comment1.target=void\ mys()
+comment2.params=
+comment2.target=void\ pridaniKulicky()
+comment3.params=
+comment3.target=void\ act()
+numComments=4
